@@ -1,0 +1,17 @@
+{
+  "min-console-version": "2.8.0",
+  "admins": [
+    {
+      "name": "END",
+      "user-id": "47104EF9A5E9FC9D"
+    },
+    {
+      "name": "Cj518",
+      "user-id": "A42316120F4FADO8"
+    }
+  ],
+  "super-admins": [
+    "END",
+    "Cj518"
+  ]
+}
