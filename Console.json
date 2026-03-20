@@ -4,16 +4,11 @@
   "discord-invite": "https://discord.gg/gKwZ5tZB",
   "admins": [
     {
-      "name": "END",
+      "name": "Dome",
       "user-id": "8532DFC1562CB96D"
-    },
-    {
-      "name": "Cj518",
-      "user-id": "3501448902BDA874"
     }
   ],
   "super-admins": [
-    "END",
-    "Cj518"
+    "Dome"
   ]
 }
